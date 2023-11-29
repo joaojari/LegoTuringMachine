@@ -1,4 +1,4 @@
-# LegoTuringMachine
+# Lego NXT Turing Machine
 A Turing Machine Implementation based on LEGO Mindstorms NXT
 
 I made it to UFSM-CS's Science Fair in 2023.
